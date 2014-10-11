@@ -1,0 +1,5 @@
+# Default searchbox messages
+# You can specialize this file for each language.
+# For exemple, for french create a messages.fr file
+
+#searchbox.name=searchbox

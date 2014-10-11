@@ -1,0 +1,4 @@
+self: play -> searchbox 0.1
+
+require:
+    - play
